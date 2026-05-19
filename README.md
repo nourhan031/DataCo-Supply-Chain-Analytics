@@ -6,7 +6,7 @@ DataCo Logistix.
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 ### 1. Overview
 - Total Revenue, Orders, Sales Growth Rate, Avg Fulfillment Time, Profit Margin, Repeat Customer Rate
@@ -29,12 +29,12 @@ DataCo Logistix.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - **Power BI Desktop** — data modeling, DAX measures, visualizations
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 - Consumer segment drives ~52% of total revenue
 - Late deliveries are the most common delivery status (~57%), signaling fulfillment inefficiency
 - Repeat customer rate sits at ~59%, showing strong but improvable retention
@@ -42,5 +42,5 @@ DataCo Logistix.
 
 ---
 
-## 📌 Data Source
+## Data Source
 https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis?resource=download
