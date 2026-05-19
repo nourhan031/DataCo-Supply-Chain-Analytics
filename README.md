@@ -1,6 +1,6 @@
 # DataCo Supply Chain Analytics Dashboard
 
-A 3-page interactive Power BI dashboard analyzing supply chain 
+An interactive Power BI dashboard analyzing supply chain 
 performance, delivery efficiency, and customer behavior for 
 DataCo Logistix.
 
